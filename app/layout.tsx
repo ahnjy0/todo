@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "미니 할일",
+  title: "진영이 일정표",
   description: "할일을 관리하는 미니 앱",
 };
 
